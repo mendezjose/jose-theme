@@ -16,7 +16,6 @@ export function Component({ fieldValues, hublParameters }) {
     <div
       className={styles.wrapper}
       style={{
-        backgroundColor: brandColors?.color,
         opacity: brandColors?.opacity,
       }}
     >
