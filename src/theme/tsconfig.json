@@ -13,6 +13,6 @@
     "skipLibCheck": true,
     "types": ["vite/client", "vitest/globals"]
   },
-  "include": ["components/**/*"],
+  "include": ["components/**/*", "utils"],
   "exclude": ["node_modules"]
 }

@@ -1,0 +1,10 @@
+query companies {
+  CRM {
+    company_collection {
+      items {
+        domain
+        name
+      }
+    }
+  }
+}
